@@ -65,7 +65,7 @@ export function Experience(){
             <strong>About HYSN</strong><br/>
             Hysn (Castle in English Translation) is a Singaporean company that focused on DevSecOps Certification<br/>
             <strong>Cloudlabs</strong> is their product, you can access it in <a href='https://portal.practical-devsecops.training/' className='text-[#C07F00]'>here</a><br/>
-            They have more than 2000 students and once they complete their exams they'll have their own devsecops certificate
+            They have more than 2000 students and once they complete their exams they will have their own devsecops certificate
           </p>
 
           <div className='p-4 bg-[#C07F00] text-white rounded-xl'>

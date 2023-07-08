@@ -10,12 +10,12 @@ export function Intro(){
           <h1 className='text-5xl leading-tight'>
             <strong className='text-app-typography font-light'>
               Hi There,<br />
-              I'm <span className='text-[#C07F00] font-bold'>Herlina Sunaryanto</span>
+              I am <span className='text-[#C07F00] font-bold'>Herlina Sunaryanto</span>
             </strong>
           </h1>
           <p className='my-3 text-2xl font-semibold text-app-typography'>Frontend Developer</p>
           <p className='my-3 text-medium font-medium text-app-typography leading-relaxed'>
-            I'm a Frontend Developer from Yogyakarta.<br />
+            I am a Frontend Developer from Yogyakarta.<br />
             I have over 4 years of working experience
           </p>
           <Button className='bg-[#C07F00] rounded-[5px] text-md text-white font-semibold mt-16'>

@@ -5,7 +5,7 @@ export function Tools () {
   return(
     <Fragment>
       <h2 className='text-4xl font-bold leading-normal text-[#C07F00]'>Tools And Technologies</h2>
-      <p className='text-app-typography'>There are some tools and technologies that i've been working with</p>
+      <p className='text-app-typography'>There are some tools and technologies that i have been working with</p>
       <div className='grid grid-cols-1 md:grid-cols-3 gap-4 mt-6'>
         <div className='flex items-center gap-4 p-4 rounded-lg bg-[#ffd95a3d]'>
           <Image src={"/image/git.png"} width={70} height={70} alt='Git'/>
